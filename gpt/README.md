@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-国科大2025年春季生物信息学中机器学习课程学习代码
-=======
 # 简易 GPT 实现
 
 这是一个基于 Transformer 架构的 gpt 生成模型项目，支持字符级和 BPE 两种分词方法，使用 PyTorch 实现。
@@ -84,4 +81,3 @@ python generate_text.py --checkpoint_dir ./checkpoints --prompt "张无忌说：
 
 - 输入 `exit` 退出程序
 - 输入 `settings` 修改生成参数（最大 token 数、温度、Top-K、Top-P）
->>>>>>> 53224c8d01c30842bcaa6137b91fff582a8d213e
