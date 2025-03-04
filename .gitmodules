@@ -6,3 +6,7 @@
 	path = BERT
 	url = git@github.com:bigict/BERT.git
 	branch = main
+[submodule "EVE"]
+	path = EVE
+	url = git@github.com:OATML-Markslab/EVE.git
+	branch = main
