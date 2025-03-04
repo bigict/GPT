@@ -25,8 +25,8 @@ generate_text.py       # 生成入口
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/yourusername/chinese-text-generation.git
-cd chinese-text-generation
+git clone https://github.com/bigict/GPT.git
+cd GPT
 ```
 
 2. 安装依赖：
