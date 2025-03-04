@@ -1,0 +1,4 @@
+[submodule "GPT"]
+	path = GPT
+	url = git@github.com:bigict/GPT.git
+	branch = main
